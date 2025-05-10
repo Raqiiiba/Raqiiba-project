@@ -13,9 +13,8 @@ This repository contains exploratory data analysis case studies using Excel. The
 
 ### 2. Actors Case Study
 
-- Dataset: Likely includes film, actor, or industry-related data.
-- Potential use:
-  - Summarizing actor activity, performance stats, or trends.
+- Dataset: it includes film, actor, or industry-related data.
+- Potential use: Summarizes actors activities, performance stats and trends.
 
 ## 🛠 Tools Used
 
