@@ -8,15 +8,10 @@ This repository contains exploratory data analysis case studies using Excel. The
 
 - Dataset: Salary responses from professionals in various roles.
 - insights:
-    - Salary ranges by job title, location, or industry.
+    - Salary ranges by job title, location, and industry.
    - Visualizations using Excel charts and pivot tables.
-
-### 2. Actors Case Study
-
-- Dataset: it includes film, actor, or industry-related data.
-- use: This summarizes actors activities, performance stats and trends.
-
-## 3. Steps to cleaning the data
+ 
+## 2. Steps to cleaning the data
   
   **Step 1: Preparing the Files**
 
